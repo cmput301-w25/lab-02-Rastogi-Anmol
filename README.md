@@ -8,7 +8,9 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+(https://www.cs.dartmouth.edu/%7Esergey/cs65/cheatsheets/Common-Android-Views-Cheat-Sheet.pdf)
+(https://stackoverflow.com/questions/6173400/how-to-hide-a-button-programmatically)
+(https://www.youtube.com/watch?v=_dgLxW9DbIY)
 
 ## Verbal Collaboration
 
